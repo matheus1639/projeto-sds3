@@ -1,7 +1,7 @@
 import Dashboard from 'pages/Dashboard';
 import Home from 'pages/Home';
 import { BrowserRouter, Route, Switch } from 'react-router-dom';
-export {}
+
 const Routes = () => {
     return (
         <BrowserRouter>
@@ -19,4 +19,3 @@ const Routes = () => {
 }
 
 export default Routes;
-export {}
